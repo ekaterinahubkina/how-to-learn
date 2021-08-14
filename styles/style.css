@@ -7,6 +7,8 @@
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 .header {
@@ -244,7 +246,7 @@
 
 .kaufman__triangle {
   width: 877px;
-  height: 877;
+  height: 877px;
   position: absolute;
   top: 0;
   right: -210px;
