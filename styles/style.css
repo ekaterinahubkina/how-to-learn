@@ -56,8 +56,6 @@
 }
 
 .header__main-illustration {
-  background-image: url(../images/header-image.png);
-  background-size: cover;
   width: 765px;
   height: 608px;
   position: absolute;
@@ -91,7 +89,7 @@
 .two-columns__main-text {
   width: 80%;
   min-width: 784px;
-  
+
 }
 
 .two-columns__paragraph {
@@ -205,7 +203,7 @@
   line-height: 51px;
   font-weight: normal;
   text-decoration: none;
-  
+
 }
 
 .kaufman {
@@ -267,7 +265,7 @@
   margin: auto;
   padding-top: 60px;
   padding-bottom: 40px;
- 
+
 }
 
 .footer__column_content_copyright {
