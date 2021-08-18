@@ -228,6 +228,7 @@
   padding-bottom: 90px;
   position: relative;
   overflow: hidden;
+  z-index: 1;
 }
 
 .section-title_theme_dark {
@@ -261,6 +262,7 @@
   width: 877px;
   height: 877px;
   background-image: url(../images/kaufman-triangle.svg);
+  background-size: contain;
   position: absolute;
   top: 0;
   right: -210px;
@@ -321,6 +323,7 @@
 }
 
 .footer__column-heading {
+  margin-top: 0;
   margin-bottom: 20px;
   line-height: 30px;
   font-size: 18px;
