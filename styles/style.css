@@ -17,11 +17,10 @@
   max-height: 756px;
   display: flex;
   position: relative;
-  /* выше установили ограничения для секции */
 }
+
 .logo {
   background-repeat: no-repeat;
-
 }
 
 .logo_place_header {
@@ -32,6 +31,7 @@
   top: 30px;
   left: 64px;
   }
+
 
 .header__title {
   width: 730px;
@@ -284,9 +284,8 @@
   flex-direction: row;
   justify-content: space-between;
   margin: auto;
-
-
 }
+
 .footer__column {
   display: flex;
   flex-direction: column;
