@@ -5,6 +5,7 @@
   padding-top: 60px;
   margin-left: 0;
   margin-right: 100px;
+  align-items: center;
 
 }
 .cards__item:nth-child(3) {

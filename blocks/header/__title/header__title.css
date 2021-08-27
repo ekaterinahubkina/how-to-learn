@@ -1,6 +1,6 @@
 .header__title {
-  width: 730px;
-  display: flex;
+  max-width: 730px;
+  width: 100%;
   margin: auto;
   margin-left: 64px;
   line-height: 96px;
